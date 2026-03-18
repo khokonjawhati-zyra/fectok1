@@ -1,0 +1,24 @@
+﻿
+user_panel\lib\main.dart:1157
+:        builder: (context) 
+=> SovereignVideoDetailFeed(
+user_panel\lib\main.dart:3716
+:        builder: (context) 
+=> SovereignVideoDetailFeed(
+user_panel\lib\main.dart:7532
+:class 
+SovereignVideoDetailFeed 
+extends StatefulWidget {
+user_panel\lib\main.dart:7542
+:  const 
+SovereignVideoDetailFeed({
+user_panel\lib\main.dart:7555
+:  State<SovereignVideoDetail
+Feed> createState() => _Sover
+eignVideoDetailFeedState();
+user_panel\lib\main.dart:7558
+:class _SovereignVideoDetailF
+eedState extends State<Sovere
+ignVideoDetailFeed> {
+
+

@@ -1,0 +1,8 @@
+﻿sovereign_sound_loop-redis-1: Up About a minute
+sovereign_sound_loop-admin-1: Up About a minute
+sponsor_admin: Up 30 minutes
+sponsor_redis: Up 30 minutes
+sovereign_revenue_control-admin-1: Up 30 minutes
+sovereign_revenue_control-redis-1: Up 30 minutes
+sovereign_impression_engine-redis-1: Up 30 minutes
+sovereign_impression_engine-admin-1: Up 30 minutes

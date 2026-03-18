@@ -1,0 +1,3 @@
+﻿sovereign_sound_loop-api-1
+sovereign_sound_loop-redis-1
+sovereign_sound_loop-admin-1

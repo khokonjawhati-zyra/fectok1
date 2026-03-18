@@ -1,0 +1,43 @@
+# Sovereign V15 GitIgnore Protocol
+
+# Build Artifacts
+**/build/
+**/.dart_tool/
+**/.pub-cache/
+**/.idea/
+**/.vscode/
+**/*.iml
+
+# Python Environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Data (The Godown takes care of this)
+**/vault/data/
+**/sound_vault/
+**/registry/data/
+*.db
+*.log
+*.err.txt
+*_log.txt
+*_err.txt
+
+# Sovereign V15: Secure Data Isolation
+*.json
+!package.json
+!composer.json
+!deno.json
+!tsconfig.json
+!pubspec.yaml
+!pubspec.lock
+!env_template.json
+
+# Environment Secrets
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db

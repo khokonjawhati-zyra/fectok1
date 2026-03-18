@@ -1,0 +1,317 @@
+INFO:QuantumSync:Sovereign Master Host Pulse: 127.0.0.1
+INFO:QuantumSync:QuantumSync: Ledger loaded from disk.
+INFO:QuantumSync:QuantumSync: Media Vault loaded.
+INFO:QuantumSync:MLM: 66 processed TX records loaded.
+INFO:QuantumSync:MLM: Referral map loaded from disk.
+INFO:QuantumSync:MLM: Pending TXs loaded from disk.
+INFO:QuantumSync:MLM: Config loaded from disk.
+INFO:     Started server process [4472]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:52991 - "WebSocket /ws/user" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:63569 - "WebSocket /ws/user" [accepted]
+INFO:     connection open
+INFO:QuantumSync:Quantum Sync [A_113]: Mapped c179887a to Active Socket.
+INFO:QuantumSync:User Action: {"action":"GET_LATEST_MEDIA"}
+INFO:QuantumSync:Quantum Sync [A_113]: Mapped c179887a to Active Socket.
+INFO:QuantumSync:User Action: {"action":"GET_LATEST_MEDIA"}
+INFO:     127.0.0.1:57498 - "WebSocket /ws/user" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:63684 - "WebSocket /ws/user" [accepted]
+INFO:     connection open
+INFO:QuantumSync:Quantum Sync [A_113]: Mapped c179887a to Active Socket.
+INFO:QuantumSync:User Action: {"action":"GET_LATEST_MEDIA"}
+INFO:QuantumSync:Quantum Sync [A_113]: Mapped c179887a to Active Socket.
+INFO:QuantumSync:User Action: {"action":"GET_LATEST_MEDIA"}
+INFO:QuantumSync:A_105: User c179887a registered as owner of IRS
+WARNING:QuantumSync:A_120: Interaction for unknown content IRS
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=IRS&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=IRS "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+INFO:QuantumSync:A_105 FISCAL: Distributed $0.002463697792325835 -> Viewer: 0.002463697792325835, Admin: 0.0
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: IRS","content_id":"IRS","weight":"1.90","timestamp":"2026-02-12T02:28:30.843"}
+INFO:QuantumSync:A_105: User c179887a registered as owner of Viewer Reward [A_111]
+WARNING:QuantumSync:A_120: Interaction for unknown content Viewer Reward [A_111]
+WARNING:QuantumSync:A_120: Interaction for unknown content Viewer Reward [A_111]
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=Viewer+Reward+%5BA_111%5D&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=Viewer+Reward+%5BA_111%5D&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=Viewer+Reward+%5BA_111%5D "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=Viewer+Reward+%5BA_111%5D "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"SYSTEM_NOTIF_RECEIVED: Viewer Reward [A_111]","content_id":"Viewer Reward [A_111]","weight":"1.95","timestamp":"2026-02-12T02:28:33.694"}
+WARNING:QuantumSync:A_120: Interaction for unknown content Viewer Reward [A_111]
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"SYSTEM_NOTIF_RECEIVED: Viewer Reward [A_111]","content_id":"Viewer Reward [A_111]","weight":"1.45","timestamp":"2026-02-12T02:28:33.695"}
+WARNING:QuantumSync:A_120: Interaction for unknown content Viewer Reward [A_111]
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=Viewer+Reward+%5BA_111%5D&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=Viewer+Reward+%5BA_111%5D&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=Viewer+Reward+%5BA_111%5D "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=Viewer+Reward+%5BA_111%5D "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"SYSTEM_NOTIF_RECEIVED: Viewer Reward [A_111]","content_id":"Viewer Reward [A_111]","weight":"2.00","timestamp":"2026-02-12T02:28:33.696"}
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"SYSTEM_NOTIF_RECEIVED: Viewer Reward [A_111]","content_id":"Viewer Reward [A_111]","weight":"1.50","timestamp":"2026-02-12T02:28:33.696"}
+INFO:QuantumSync:A_105: User c179887a registered as owner of META
+WARNING:QuantumSync:A_120: Interaction for unknown content META
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=META&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=META "HTTP/1.1 200 OK"
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+INFO:     connection closed
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: 
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: META","content_id":"META","weight":"2.05","timestamp":"2026-02-12T02:29:30.827"}
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\uvicorn\protocols\websockets\websockets_impl.py", line 244, in run_asgi
+    result = await self.app(self.scope, self.asgi_receive, self.asgi_send)  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\fastapi\applications.py", line 1135, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\applications.py", line 107, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\middleware\errors.py", line 151, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\middleware\cors.py", line 77, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\middleware\exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\fastapi\middleware\asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\routing.py", line 736, in app
+    await route.handle(scope, receive, send)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\routing.py", line 364, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\fastapi\routing.py", line 141, in app
+    await wrap_app_handling_exceptions(app, session)(scope, receive, send)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\fastapi\routing.py", line 138, in app
+    await func(session)
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\fastapi\routing.py", line 438, in app
+    await dependant.call(**solved_result.values)
+  File "C:\Users\Admin\backup 3\backend\main.py", line 556, in websocket_user_endpoint
+    data = await websocket.receive_text()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\starlette\websockets.py", line 118, in receive_text
+    raise RuntimeError('WebSocket is not connected. Need to call "accept" first.')
+RuntimeError: WebSocket is not connected. Need to call "accept" first.
+INFO:     127.0.0.1:58571 - "WebSocket /ws/admin" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:59632 - "WebSocket /ws/admin" [accepted]
+INFO:     connection open
+INFO:     127.0.0.1:61974 - "WebSocket /ws/user" [accepted]
+INFO:     connection open
+INFO:QuantumSync:A_105: User ANON_USER registered as owner of ADM
+WARNING:QuantumSync:A_120: Interaction for unknown content ADM
+INFO:     127.0.0.1:60166 - "WebSocket /ws/user" [accepted]
+INFO:     connection open
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=ADM&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:QuantumSync:Quantum Sync [A_113]: Mapped c179887a to Active Socket.
+INFO:QuantumSync:User Action: {"action":"GET_LATEST_MEDIA"}
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=ADM "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Cannot call "send" once a close message has been sent.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: ADM","content_id":"ADM","weight":"1.05","timestamp":"2026-02-12T02:29:42.137"}
+INFO:QuantumSync:Quantum Sync [A_113]: Mapped c179887a to Active Socket.
+INFO:QuantumSync:User Action: {"action":"GET_LATEST_MEDIA"}
+INFO:     connection closed
+INFO:     connection closed
+INFO:QuantumSync:A_105: User c179887a registered as owner of UNT
+WARNING:QuantumSync:A_120: Interaction for unknown content UNT
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=UNT&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=UNT "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Cannot call "send" once a close message has been sent.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: UNT","content_id":"UNT","weight":"1.10","timestamp":"2026-02-12T02:29:56.980"}
+INFO:QuantumSync:Admin Action: {"action": "GATING_TOGGLE", "enabled": false}
+ERROR:QuantumSync:Global WS Error: Cannot call "send" once a close message has been sent.
+INFO:     connection closed
+INFO:QuantumSync:A_105: User c179887a registered as owner of APL
+WARNING:QuantumSync:A_120: Interaction for unknown content APL
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=APL&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=APL "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: APL","content_id":"APL","weight":"1.15","timestamp":"2026-02-12T02:30:11.973"}
+INFO:QuantumSync:A_105: User c179887a registered as owner of AUTHORIZED_BY_DOB
+WARNING:QuantumSync:A_120: Interaction for unknown content AUTHORIZED_BY_DOB
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=AUTHORIZED_BY_DOB&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=AUTHORIZED_BY_DOB "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"LEGAL_CONSENT: AUTHORIZED_BY_DOB","content_id":"AUTHORIZED_BY_DOB","weight":"1.20","timestamp":"2026-02-12T02:30:20.506"}
+WARNING:QuantumSync:A_120: Interaction for unknown content IRS
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=IRS&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=IRS "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: IRS","content_id":"IRS","weight":"1.25","timestamp":"2026-02-12T02:30:26.991"}
+WARNING:QuantumSync:A_120: Interaction for unknown content META
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=META&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=META "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: META","content_id":"META","weight":"1.30","timestamp":"2026-02-12T02:30:42.014"}
+INFO:QuantumSync:A_105: User c179887a registered as owner of MIN
+WARNING:QuantumSync:A_120: Interaction for unknown content MIN
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=MIN&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=MIN "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: MIN","content_id":"MIN","weight":"1.35","timestamp":"2026-02-12T02:30:56.979"}
+WARNING:QuantumSync:A_120: Interaction for unknown content ADM
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=ADM&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=ADM "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: ADM","content_id":"ADM","weight":"1.40","timestamp":"2026-02-12T02:31:12.029"}
+WARNING:QuantumSync:A_120: Interaction for unknown content UNT
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=UNT&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=UNT "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: UNT","content_id":"UNT","weight":"1.45","timestamp":"2026-02-12T02:31:27.016"}
+WARNING:QuantumSync:A_120: Interaction for unknown content APL
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=APL&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=APL "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: APL","content_id":"APL","weight":"1.50","timestamp":"2026-02-12T02:31:42.020"}
+WARNING:QuantumSync:A_120: Interaction for unknown content IRS
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=IRS&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=IRS "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: IRS","content_id":"IRS","weight":"1.55","timestamp":"2026-02-12T02:31:57.228"}
+WARNING:QuantumSync:A_120: Interaction for unknown content META
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=META&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=META "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: META","content_id":"META","weight":"1.60","timestamp":"2026-02-12T02:32:12.027"}
+WARNING:QuantumSync:A_120: Interaction for unknown content MIN
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=MIN&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=MIN "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: MIN","content_id":"MIN","weight":"1.65","timestamp":"2026-02-12T02:32:27.011"}
+WARNING:QuantumSync:A_120: Interaction for unknown content ADM
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=ADM&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=ADM "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: ADM","content_id":"ADM","weight":"1.70","timestamp":"2026-02-12T02:32:42.058"}
+WARNING:QuantumSync:A_120: Interaction for unknown content UNT
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=UNT&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=UNT "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: UNT","content_id":"UNT","weight":"1.75","timestamp":"2026-02-12T02:32:57.020"}
+WARNING:QuantumSync:A_120: Interaction for unknown content APL
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=APL&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=APL "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: APL","content_id":"APL","weight":"1.80","timestamp":"2026-02-12T02:33:12.031"}
+WARNING:QuantumSync:A_120: Interaction for unknown content IRS
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=IRS&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=IRS "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: IRS","content_id":"IRS","weight":"1.85","timestamp":"2026-02-12T02:33:27.025"}
+WARNING:QuantumSync:A_120: Interaction for unknown content META
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=META&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=META "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: META","content_id":"META","weight":"1.90","timestamp":"2026-02-12T02:33:42.029"}
+WARNING:QuantumSync:A_120: Interaction for unknown content MIN
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=MIN&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=MIN "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: MIN","content_id":"MIN","weight":"1.95","timestamp":"2026-02-12T02:33:57.007"}
+WARNING:QuantumSync:A_120: Interaction for unknown content ADM
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=ADM&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=ADM "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: ADM","content_id":"ADM","weight":"2.00","timestamp":"2026-02-12T02:34:12.030"}
+WARNING:QuantumSync:A_120: Interaction for unknown content UNT
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=UNT&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=UNT "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: UNT","content_id":"UNT","weight":"2.05","timestamp":"2026-02-12T02:34:26.979"}
+WARNING:QuantumSync:A_120: Interaction for unknown content APL
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=APL&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=APL "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: APL","content_id":"APL","weight":"2.10","timestamp":"2026-02-12T02:34:42.021"}
+WARNING:QuantumSync:A_120: Interaction for unknown content IRS
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=IRS&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=IRS "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: IRS","content_id":"IRS","weight":"2.15","timestamp":"2026-02-12T02:34:57.453"}
+WARNING:QuantumSync:A_120: Interaction for unknown content META
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=META&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=META "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: META","content_id":"META","weight":"2.20","timestamp":"2026-02-12T02:35:12.032"}
+WARNING:QuantumSync:A_120: Interaction for unknown content MIN
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=MIN&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=MIN "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: MIN","content_id":"MIN","weight":"2.25","timestamp":"2026-02-12T02:35:27.014"}
+WARNING:QuantumSync:A_120: Interaction for unknown content ADM
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=ADM&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=ADM "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: ADM","content_id":"ADM","weight":"2.30","timestamp":"2026-02-12T02:35:42.050"}
+WARNING:QuantumSync:A_120: Interaction for unknown content UNT
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=UNT&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=UNT "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: UNT","content_id":"UNT","weight":"2.35","timestamp":"2026-02-12T02:35:57.003"}
+WARNING:QuantumSync:A_120: Interaction for unknown content APL
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=APL&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=APL "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: APL","content_id":"APL","weight":"2.40","timestamp":"2026-02-12T02:36:12.064"}
+WARNING:QuantumSync:A_120: Interaction for unknown content IRS
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=IRS&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=IRS "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: IRS","content_id":"IRS","weight":"2.45","timestamp":"2026-02-12T02:36:26.983"}
+WARNING:QuantumSync:A_120: Interaction for unknown content META
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=META&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=META "HTTP/1.1 200 OK"
+ERROR:QuantumSync:NEURAL SYNC ERROR: All connection attempts failed
+ERROR:QuantumSync:Processing Error: Unexpected ASGI message 'websocket.send', after sending 'websocket.close' or response already completed.
+INFO:QuantumSync:User Action: {"action":"USER_INTERACTION","type":"AD_IMPRESSION: META","content_id":"META","weight":"2.50","timestamp":"2026-02-12T02:36:42.010"}
+WARNING:QuantumSync:A_120: Interaction for unknown content MIN
+INFO:httpx:HTTP Request: POST http://127.0.0.1:6000/track?c_id=MIN&act=view&ip=127.0.0.1 "HTTP/1.1 404 Not Found"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:9000/view_check?v_id=MIN "HTTP/1.1 200 OK"

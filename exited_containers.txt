@@ -1,0 +1,15 @@
+﻿
+sovereign_sound_loop-api-1   
+         Exited (1) 14 
+minutes ago
+sponsor_api                  
+         Exited (1) 36 
+minutes ago
+sovereign_revenue_control-api
+-1       Exited (1) 37 
+minutes ago
+sovereign_impression_engine-a
+pi-1     Exited (1) 37 
+minutes ago
+
+

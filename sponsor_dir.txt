@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is D2F2-5F1F
+
+ Directory of c:\Users\Admin\shorts\Sovereign_Sponsor_System
+
+02/03/2026  11:17 AM    <DIR>          .
+02/03/2026  12:24 PM    <DIR>          ..
+02/03/2026  11:17 AM    <DIR>          index.html
+02/02/2026  09:57 PM    <DIR>          __pycache__
+               0 File(s)              0 bytes
+               4 Dir(s)  11,950,469,120 bytes free

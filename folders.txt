@@ -1,0 +1,11 @@
+﻿C:\Users\Admin\shorts\.agent
+C:\Users\Admin\shorts\.venv
+C:\Users\Admin\shorts\.vscode
+C:\Users\Admin\shorts\admin_panel
+C:\Users\Admin\shorts\backend
+C:\Users\Admin\shorts\sovereign_core
+C:\Users\Admin\shorts\Sovereign_Impression_Engine
+C:\Users\Admin\shorts\Sovereign_Revenue_Control
+C:\Users\Admin\shorts\Sovereign_Sound_Loop
+C:\Users\Admin\shorts\Sovereign_Sponsor_System
+C:\Users\Admin\shorts\user_panel

@@ -1,0 +1,3 @@
+﻿Sovereign Uplink Server: UPLOAD GATEWAY ACTIVE [V15]
+ * Serving Flask app 'uplink_server'
+ * Debug mode: off
