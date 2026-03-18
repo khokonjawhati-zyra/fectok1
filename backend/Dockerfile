@@ -18,6 +18,9 @@ RUN pip install --no-cache-dir \
     websockets \
     google-auth \
     google-api-python-client \
+    google-auth-oauthlib \
+    google-auth-httplib2 \
+    python-multipart \
     requests
 
 # Copy local code
