@@ -16,6 +16,8 @@ RUN pip install --no-cache-dir \
     pydantic \
     python-dotenv \
     websockets \
+    google-auth \
+    google-api-python-client \
     requests
 
 # Copy local code
